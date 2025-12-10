@@ -4,5 +4,7 @@
 <dict>
 	<key>aps-environment</key>
 	<string>development</string>
+	<key>beta-reports-active</key>
+	<true/>
 </dict>
 </plist>
